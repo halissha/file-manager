@@ -1,0 +1,2 @@
+class QuitException(BaseException):
+    pass
